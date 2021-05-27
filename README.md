@@ -22,7 +22,7 @@ An analogy to an algorithm is a cooking recipe: both have clear steps to achieve
 
 In this project I try to present some of the most common design patterns.
 The strucure of this project: 
-- You can find each pattern in src/ folder
+- You can find each pattern in the [src/](https://github.com/thebird97/design-patterns/tree/master/src/)  folder
 - Each pattern has own description in README.md file: Intent, Motivation, Structure, Code example
 - You can read my [Wiki](https://github.com/thebird97/design-patterns/wiki) for the detailed description of each pattern
 
