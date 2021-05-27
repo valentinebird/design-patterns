@@ -24,7 +24,8 @@ In this project I try to present some of the most common design patterns.
 The strucure of this project: 
 - You can find each pattern in src/ folder
 - Each pattern has own description in README.md file: Intent, Motivation, Structure, Code example
-- You can read Wiki the detailed description of each pattern
+- You can read my *[Wiki](https://github.com/thebird97/design-patterns/wiki)* for the detailed description of each
+  pattern
 
 ### Websites
 *[Design Pattern Guide](https://refactoring.guru/design-patterns/)*
