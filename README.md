@@ -8,7 +8,7 @@ Patterns are often confused with algorithms, because both concepts describe typi
 
 An analogy to an algorithm is a cooking recipe: both have clear steps to achieve a goal. On the other hand, a pattern is more like a blueprint: you can see what the result and its features are, but the exact order of implementation is up to you.
 
-#Pattern description:
+##Pattern description:
 
 - **Intent** of the pattern briefly describes both the problem and the solution.
 
@@ -18,4 +18,14 @@ An analogy to an algorithm is a cooking recipe: both have clear steps to achieve
 
 - **Code example** in one of the popular programming languages makes it easier to grasp the idea behind the pattern.
 
-**Project description**
+##Project description
+
+In this project I try to present some of the most common design patterns.
+The strucure of this project: 
+- You can find each pattern in src/ folder
+- Each pattern has own description in README.md file: Intent, Motivation, Structure, Code example
+- You can read Wiki the detailed description of each pattern
+
+
+###Websites
+*[Design Pattern Guide](https://refactoring.guru/design-patterns/)*
